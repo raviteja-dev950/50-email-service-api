@@ -7,7 +7,6 @@
 ![Validation](https://img.shields.io/badge/Validation-Jakarta-yellow)
 ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-11.0.22-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Milestone](https://img.shields.io/badge/Milestone-50%2F100%20Half%20Century-gold)
 
 ---
 

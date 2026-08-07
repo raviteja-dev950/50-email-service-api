@@ -281,7 +281,6 @@ BODY: Congrats on 50th project!
 
 **Project 50 / 100 - HALF CENTURY COMPLETED! 🏆**
 
-**Tier 5 – Spring Boot + REST + Security - 8/10 Done**
 
 ---
 
@@ -289,4 +288,4 @@ BODY: Congrats on 50th project!
 
 If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
 
-**Next: Project 51 - URL Shortener API**
+

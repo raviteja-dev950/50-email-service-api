@@ -281,11 +281,8 @@ BODY: Congrats on 50th project!
 
 **Project 50 / 100 - HALF CENTURY COMPLETED! 🏆**
 
-
 ---
 
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
-
-
